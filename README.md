@@ -1,4 +1,4 @@
-# Predicting the Optimal Time for Weaning of Patients in Mechanical Ventilation
+# Predicting the Optimal Time for Weaning of Patients on Mechanical Ventilation
 
 ## Data Preparation
 - Missing value analysis
