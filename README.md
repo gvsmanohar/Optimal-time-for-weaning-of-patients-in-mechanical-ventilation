@@ -1,4 +1,4 @@
-# TeamGolf
+# Predicting the Optimal Time for Weaning of Patients in Mechanical Ventilation
 
 ## Data Preparation
 - Missing value analysis
